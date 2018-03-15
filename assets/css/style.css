@@ -1,0 +1,12 @@
+body {
+    background-color:gray;
+    margin:30px;
+}
+.card {
+    padding:10px;
+    margin:20px;
+}
+
+.jumbotron-fluid {
+    text-align: center;
+}
